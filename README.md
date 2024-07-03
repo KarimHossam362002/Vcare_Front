@@ -1,4 +1,4 @@
-# Doctor Appointment Management Web Application
+# Doctor Appointment Management Web Application.
 
 ## Overview
 
