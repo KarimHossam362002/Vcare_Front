@@ -53,9 +53,3 @@ To view the web application:
 
 No external libraries are required beyond standard frontend technologies (HTML, CSS, JavaScript).
 
-### Credits
-
-This project is developed by [Your Name] for managing and booking appointments with doctors.
-
-For detailed implementation and technical details, please refer to the source code files included in this repository.
-
